@@ -1,0 +1,27 @@
+{
+  "name": "xqbase.com",
+  "version": "1.0.0",
+  "description": "象棋小巫师",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server . -p 8080 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cailiangsheng/xqbase.com.git"
+  },
+  "keywords": [
+    "XiangQi",
+    "WuShi"
+  ],
+  "author": "xqbase.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cailiangsheng/xqbase.com/issues"
+  },
+  "homepage": "https://github.com/cailiangsheng/xqbase.com#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
